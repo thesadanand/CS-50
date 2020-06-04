@@ -1,3 +1,8 @@
+# how many objects are created ?
+String arr[] = {"Paul", "Steven", "Jennifer", "Bart"};
+soln: total 9 objects created.
+      4 string objects, and their 4 underlying cha[]
+      1 string array i.e. arr
 
 public class UBSTest {
 	public static void main(String[] args) {
